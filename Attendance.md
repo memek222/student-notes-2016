@@ -5,4 +5,4 @@ Kacper Kempski | :+1: ||
 Mateusz Berent | :+1: ||
 Piotr Kumorek	 | :+1:	| 	
 Bartosz Kolanek	 | :+1:	| 
-suma             | 0   ||
+suma             | 5   ||
