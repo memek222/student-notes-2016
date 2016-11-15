@@ -1,6 +1,6 @@
-Imie i Nazwisko  | 18.10 | 25.10 |
+Imie i Nazwisko  | 18.10 | 15.11 |
 ---------------- | ----- | ----- |
-Radosław Mariowski | :+1: ||
+Radosław Mariowski | :+1: | :+1: |
 Kacper Kempski | :+1: ||
 Mateusz Berent | :+1: ||
 Piotr Kumorek	 | :+1:	| :+1: |   	
